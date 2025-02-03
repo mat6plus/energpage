@@ -3,17 +3,17 @@ const products = [{
   name: "Energizing Blend",
   description: "A revitalizing mix of herbs for natural energy",
   price: "$24.99",
-  image: "/5.png"
+  image: "/images/5.png"
 }, {
   name: "Calming Chamomile",
   description: "Soothing blend for relaxation and peace",
   price: "$22.99",
-  image: "/3.png"
+  image: "/images/3.png"
 }, {
   name: "Wellness Tonic",
   description: "Daily boost for your immune system",
   price: "$26.99",
-  image: "/5.png"
+  image: "/images/5.png"
 }];
 export const Products = () => {
   return <section id="products" className="py-24 bg-[#F9F5F0]">

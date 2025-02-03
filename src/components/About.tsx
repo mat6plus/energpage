@@ -53,7 +53,7 @@ export const About = () => {
               <div className="absolute -top-10 -right-10 w-40 h-40 bg-gradient-to-br from-[#C4A484]/20 to-transparent rounded-full blur-2xl"></div>
               <div className="absolute -bottom-10 -left-10 w-40 h-40 bg-gradient-to-tl from-[#8B4513]/20 to-transparent rounded-full blur-2xl"></div>
               <img 
-                src="/src/assets/images/3noBKG.png" 
+                src="/images/3noBKG.png" 
                 alt="Energamine product showcase" 
                 className="relative z-10 w-full h-auto object-contain rounded-3xl transform hover:scale-102 transition-transform duration-500"
                 style={{

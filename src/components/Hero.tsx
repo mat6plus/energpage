@@ -59,7 +59,7 @@ export const Hero = () => {
             <div className="absolute inset-0 bg-[url('/pattern.png')] opacity-5 mix-blend-overlay"></div>
             <div className="relative group">
               <img 
-                src="/src/assets/images/5noBKG.png" 
+                src="/images/5noBKG.png" 
                 alt="Energamine product" 
                 className="relative z-10 w-[140%] h-auto max-w-none -ml-[20%] transform 
                   group-hover:scale-105 group-hover:-rotate-2 
