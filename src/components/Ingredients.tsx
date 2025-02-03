@@ -3,32 +3,32 @@ const ingredients = [{
   name: "Tongkat ali",
   scientific: "Eurycoma longifolia",
   description: "An Asian tree growing in Indonesia and Malaysia. Known for its sexual enhancement features and ability to boost natural testosterone. Its ability to boost natural testosterone allows it to increase libido, muscle mass, energy and sports performance.",
-  image: "/src/assets/images/Tongkat ali.png"
+  image: "/images/Tongkat ali.png"
 }, {
   name: "Guarana",
   scientific: "Paullinia cupana",
   description: "A sacred plant from the Amazon rainforest containing guaranine, similar to caffeine. Contains theobromine, theophylline, tannins, and other compounds that improve endurance and cognitive abilities.",
-  image: "/src/assets/images/Guarana.png"
+  image: "/images/Guarana.png"
 }, {
   name: "Maca",
   scientific: "Lepidium meyenii",
   description: "A tuber that grows in Latin America, composed of proteins, minerals, vitamins, and amino acids. Known to have tonic effects on the immune system and fertility.",
-  image: "/src/assets/images/Maca.png"
+  image: "/images/Maca.png"
 }, {
   name: "Stevia",
   scientific: "Stevia rebaudiana",
   description: "A natural sweetener native to South America. Contains sterol and antioxidant compounds, helping control cholesterol and blood pressure.",
-  image: "/src/assets/images/Stevia.png"
+  image: "/images/Stevia.png"
 }, {
   name: "Coffee",
   scientific: "Organic",
   description: "A stimulating psychotropic energy drink with proven positive effects on cognitive function and physical performance. Contains beneficial compounds that support overall wellness.",
-  image: "/src/assets/images/Coffee.png"
+  image: "/images/Coffee.png"
 }, {
   name: "Non-dairy Milk",
   scientific: "Natural cream",
   description: "Contains essential dairy proteins that support nutritional balance without the use of artificial additives.",
-  image: "/src/assets/images/Non-dairy cremes.png"
+  image: "/images/Non-dairy cremes.png"
 }];
 
 export const Ingredients = () => {
